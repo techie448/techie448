@@ -38,6 +38,7 @@ _Frontend Project using Public API_
   - React.js, D3.js as frontend javascript technologies.
   - SASS with CSS Grid and Flexbox for styling.
   - Github, Github Pages, Firebase Hosting for Deployment.
+- URL : [https://coronavirus-dash.web.app/](https://coronavirus-dash.web.app/)
 
 [**The Job Hunt**](https://thejobhunt.web.app/) **— Angular/Firebase Web Application**
 
@@ -50,6 +51,7 @@ _Full Stack Project_
   - Github, Github Pages, Firebase Hosting for Deployment.
   - Node, Cheerios for web scraping, data modeling and backend services.
   - CRON, Heroku for Node worker automation and deployment.
+- URL : [https://thejobhunt.web.app/](https://thejobhunt.web.app/)
 
 [**Squeeze Now**](https://squeeze.now.sh/) **— Vue/MongoDB Web Application + API**
 
@@ -64,6 +66,7 @@ _Serverless Cloud Functions Project_
   - Github, Vercel, Vercel Cloud Functions for Deployment.
   - Node serverless functions for backend services.
   - MongoDB, Monk, Yup used for NoSQL database and schema validations.
+- URL : [https://squeeze.now.sh/](https://squeeze.now.sh/)
 
 **ADDITIONAL**
 
