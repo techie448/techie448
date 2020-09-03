@@ -98,4 +98,4 @@ _Serverless Cloud Functions Project_
 
 ## License
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://raw.githubusercontent.com/techie448/techie448/master/LICENSE
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/techie448/techie448/master/LICENSE
